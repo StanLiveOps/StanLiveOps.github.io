@@ -1,0 +1,31 @@
+{
+    "site": {
+      "title": "Stan LiveOps"
+    },
+    "tools": [
+      {
+        "id": "streamcheck",
+        "label": "StreamCheck",
+        "url": "https://stanliveops.github.io/streamcheck",
+        "image": "liveops.png",
+        "description": "live stream checklist for live ops"
+      },
+      {
+        "id": "training",
+        "label": "Training Tool",
+        "url": "#",
+        "image": "training.png",
+        "description": "TBD"
+      }
+    ],
+    "deprecated": [
+      {
+        "label": "Kikibot",
+        "url": "https://kayleecragg.github.io/projects/kikibot/"
+      },
+      {
+        "label": "Tennis Checkerboard",
+        "url": "https://kayleecragg.github.io/tennis"
+      }
+    ]
+  }
